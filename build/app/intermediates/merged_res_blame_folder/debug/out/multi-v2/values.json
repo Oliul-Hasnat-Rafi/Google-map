@@ -74,25 +74,6 @@
                     }
                 },
                 {
-                    "source": "/Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,818",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "476,982"
-                    },
-                    "to": {
-                        "startLines": "183,187",
-                        "startColumns": "4,4",
-                        "startOffsets": "11054,11235",
-                        "endLines": "186,189",
-                        "endColumns": "12,12",
-                        "endOffsets": "11230,11399"
-                    }
-                },
-                {
                     "source": "/Users/gtr/.gradle/caches/transforms-3/bb9d59e21b7884666623ba570b979574/transformed/jetified-play-services-base-18.3.0/res/values/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,33,46",
@@ -145,6 +126,25 @@
                         "endLines": "126,206,209,214",
                         "endColumns": "37,12,12,12",
                         "endOffsets": "6489,12504,12664,12916"
+                    }
+                },
+                {
+                    "source": "/Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,818",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "476,982"
+                    },
+                    "to": {
+                        "startLines": "183,187",
+                        "startColumns": "4,4",
+                        "startOffsets": "11054,11235",
+                        "endLines": "186,189",
+                        "endColumns": "12,12",
+                        "endOffsets": "11230,11399"
                     }
                 },
                 {

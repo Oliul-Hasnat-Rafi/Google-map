@@ -13,25 +13,25 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->/Users/gtr/Project/rafi/mobile app/google_map/android/app/src/debug/AndroidManifest.xml:6:5-66
-15-->/Users/gtr/Project/rafi/mobile app/google_map/android/app/src/debug/AndroidManifest.xml:6:22-64
+15-->/Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/debug/AndroidManifest.xml:6:5-66
+15-->/Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/debug/AndroidManifest.xml:6:22-64
 16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-16-->/Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:3:1-75
-16-->/Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:3:18-72
+16-->/Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:3:1-75
+16-->/Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:3:18-72
 17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- Required to query activities that can process text -->
-17-->/Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:4:1-77
-17-->/Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:4:18-74
+17-->/Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:4:1-77
+17-->/Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:4:18-74
 18    <queries>
-18-->/Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:43:5-48:15
+18-->/Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:44:5-49:15
 19        <intent>
-19-->/Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:44:9-47:18
+19-->/Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:45:9-48:18
 20            <action android:name="android.intent.action.PROCESS_TEXT" />
-20-->/Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:45:13-73
-20-->/Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:45:21-70
+20-->/Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:46:13-73
+20-->/Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:46:21-70
 21
 22            <data android:mimeType="text/plain" />
-22-->/Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:46:13-51
-22-->/Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:46:19-48
+22-->/Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:47:13-51
+22-->/Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:47:19-48
 23        </intent>
 24        <!-- Needs to be explicitly declared on Android R+ -->
 25        <package android:name="com.google.android.apps.maps" />
@@ -108,15 +108,15 @@
 83            android:value="AIzaSyBmaQap8imER9nVq_na_r54mTjRqoYS5Kk" />
 84
 85        <service
-85-->[:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:56
+85-->[:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/Google-map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:56
 86            android:name="com.baseflow.geolocator.GeolocatorLocationService"
-86-->[:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-77
+86-->[:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/Google-map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-77
 87            android:enabled="true"
-87-->[:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-35
+87-->[:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/Google-map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-35
 88            android:exported="false"
-88-->[:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-37
+88-->[:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/Google-map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-37
 89            android:foregroundServiceType="location" />
-89-->[:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-53
+89-->[:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/Google-map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-53
 90
 91        <uses-library
 91-->[androidx.window:window:1.2.0] /Users/gtr/.gradle/caches/transforms-3/3e108fe9d597d03770ae82acaebb5b63/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40

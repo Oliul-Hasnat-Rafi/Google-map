@@ -4,7 +4,7 @@
             "outputFile": "com.example.google_map.app-mergeDebugResources-28:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 application
-INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:5:5-40:19
-INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/debug/AndroidManifest.xml
-MERGED from [:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
-MERGED from [:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
+INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:5:5-41:19
+INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/debug/AndroidManifest.xml
+MERGED from [:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/Google-map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/Google-map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
 MERGED from [com.google.android.gms:play-services-location:21.2.0] /Users/gtr/.gradle/caches/transforms-3/810da246ace89bb704ea311999d645f6/transformed/jetified-play-services-location-21.2.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-location:21.2.0] /Users/gtr/.gradle/caches/transforms-3/810da246ace89bb704ea311999d645f6/transformed/jetified-play-services-location-21.2.0/AndroidManifest.xml:7:5-20
 MERGED from [androidx.window:window:1.2.0] /Users/gtr/.gradle/caches/transforms-3/3e108fe9d597d03770ae82acaebb5b63/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
@@ -29,20 +29,20 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/gtr/
 MERGED from [com.google.maps.android:android-maps-utils:3.6.0] /Users/gtr/.gradle/caches/transforms-3/8a8d10134152fb1fea5f0f9ec11dd13b/transformed/jetified-android-maps-utils-3.6.0/AndroidManifest.xml:7:5-11:19
 MERGED from [com.google.maps.android:android-maps-utils:3.6.0] /Users/gtr/.gradle/caches/transforms-3/8a8d10134152fb1fea5f0f9ec11dd13b/transformed/jetified-android-maps-utils-3.6.0/AndroidManifest.xml:7:5-11:19
 	android:extractNativeLibs
-		INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/debug/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] /Users/gtr/.gradle/caches/transforms-3/c666c258fca39b3353b46678a6b928ab/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 	android:name
-		INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml
 manifest
-ADDED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:1:1-49:12
-MERGED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:1:1-49:12
-INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-MERGED from [:google_maps_flutter_android] /Users/gtr/Project/rafi/mobile app/google_map/build/google_maps_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:flutter_plugin_android_lifecycle] /Users/gtr/Project/rafi/mobile app/google_map/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-15:12
+ADDED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:1:1-50:12
+MERGED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:1:1-50:12
+INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+MERGED from [:google_maps_flutter_android] /Users/gtr/Project/rafi/mobile app/google_map/Google-map/build/google_maps_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/gtr/Project/rafi/mobile app/google_map/Google-map/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/Google-map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-15:12
 MERGED from [com.google.android.gms:play-services-location:21.2.0] /Users/gtr/.gradle/caches/transforms-3/810da246ace89bb704ea311999d645f6/transformed/jetified-play-services-location-21.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.window:window:1.2.0] /Users/gtr/.gradle/caches/transforms-3/3e108fe9d597d03770ae82acaebb5b63/transformed/jetified-window-1.2.0/AndroidManifest.xml:17:1-31:12
 MERGED from [androidx.window:window-java:1.2.0] /Users/gtr/.gradle/caches/transforms-3/bf78d940cc78ca45c77421e3af64376e/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:17:1-21:12
@@ -75,52 +75,52 @@ MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/gtr/.gradle/cach
 MERGED from [com.google.maps.android:android-maps-utils:3.6.0] /Users/gtr/.gradle/caches/transforms-3/8a8d10134152fb1fea5f0f9ec11dd13b/transformed/jetified-android-maps-utils-3.6.0/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/gtr/.gradle/caches/transforms-3/6707c561045b071954f9f1d8398a2530/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
 	package
-		ADDED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:2:5-37
-		INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/debug/AndroidManifest.xml
+		ADDED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:2:5-37
+		INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/debug/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:3:1-75
+ADDED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:3:1-75
 	android:name
-		ADDED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:3:18-72
+		ADDED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:3:18-72
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:4:1-77
+ADDED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:4:1-77
 	android:name
-		ADDED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:4:18-74
+		ADDED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:4:18-74
 queries
-ADDED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:43:5-48:15
+ADDED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:44:5-49:15
 MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/gtr/.gradle/caches/transforms-3/8bbca67cc5a32c5ad0e6edc351921bed/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:30:5-34:15
 MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/gtr/.gradle/caches/transforms-3/8bbca67cc5a32c5ad0e6edc351921bed/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:30:5-34:15
 intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
-ADDED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:44:9-47:18
+ADDED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:45:9-48:18
 action#android.intent.action.PROCESS_TEXT
-ADDED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:45:13-73
+ADDED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:46:13-73
 	android:name
-		ADDED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:45:21-70
+		ADDED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:46:21-70
 data
-ADDED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:46:13-51
+ADDED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:47:13-51
 	android:mimeType
-		ADDED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/main/AndroidManifest.xml:46:19-48
+		ADDED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/main/AndroidManifest.xml:47:19-48
 uses-permission#android.permission.INTERNET
-ADDED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/debug/AndroidManifest.xml:6:5-66
+ADDED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/debug/AndroidManifest.xml:6:5-66
 MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/gtr/.gradle/caches/transforms-3/8bbca67cc5a32c5ad0e6edc351921bed/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/gtr/.gradle/caches/transforms-3/8bbca67cc5a32c5ad0e6edc351921bed/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/debug/AndroidManifest.xml:6:22-64
+		ADDED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/debug/AndroidManifest.xml:6:22-64
 uses-sdk
-INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/debug/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/debug/AndroidManifest.xml
-MERGED from [:google_maps_flutter_android] /Users/gtr/Project/rafi/mobile app/google_map/build/google_maps_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:google_maps_flutter_android] /Users/gtr/Project/rafi/mobile app/google_map/build/google_maps_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:flutter_plugin_android_lifecycle] /Users/gtr/Project/rafi/mobile app/google_map/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:flutter_plugin_android_lifecycle] /Users/gtr/Project/rafi/mobile app/google_map/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/debug/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/debug/AndroidManifest.xml
+MERGED from [:google_maps_flutter_android] /Users/gtr/Project/rafi/mobile app/google_map/Google-map/build/google_maps_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter_android] /Users/gtr/Project/rafi/mobile app/google_map/Google-map/build/google_maps_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/gtr/Project/rafi/mobile app/google_map/Google-map/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/gtr/Project/rafi/mobile app/google_map/Google-map/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/Google-map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/Google-map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-location:21.2.0] /Users/gtr/.gradle/caches/transforms-3/810da246ace89bb704ea311999d645f6/transformed/jetified-play-services-location-21.2.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-location:21.2.0] /Users/gtr/.gradle/caches/transforms-3/810da246ace89bb704ea311999d645f6/transformed/jetified-play-services-location-21.2.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.window:window:1.2.0] /Users/gtr/.gradle/caches/transforms-3/3e108fe9d597d03770ae82acaebb5b63/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
@@ -184,19 +184,19 @@ MERGED from [com.google.maps.android:android-maps-utils:3.6.0] /Users/gtr/.gradl
 MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/gtr/.gradle/caches/transforms-3/6707c561045b071954f9f1d8398a2530/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/gtr/.gradle/caches/transforms-3/6707c561045b071954f9f1d8398a2530/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
 	android:targetSdkVersion
-		INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/gtr/Project/rafi/mobile app/google_map/Google-map/android/app/src/debug/AndroidManifest.xml
 service#com.baseflow.geolocator.GeolocatorLocationService
-ADDED from [:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:56
+ADDED from [:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/Google-map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:56
 	android:enabled
-		ADDED from [:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-35
+		ADDED from [:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/Google-map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-35
 	android:exported
-		ADDED from [:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-37
+		ADDED from [:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/Google-map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-37
 	android:foregroundServiceType
-		ADDED from [:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-53
+		ADDED from [:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/Google-map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-53
 	android:name
-		ADDED from [:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-77
+		ADDED from [:geolocator_android] /Users/gtr/Project/rafi/mobile app/google_map/Google-map/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-77
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.2.0] /Users/gtr/.gradle/caches/transforms-3/3e108fe9d597d03770ae82acaebb5b63/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
 	android:required
