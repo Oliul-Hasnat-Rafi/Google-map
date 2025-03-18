@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-const String googleAPiKeys = "AIzaSyBmaQap8imER9nVq_na_r54mTjRqoYS5Kk";
+const String googleAPiKeys = "you api key";
 
 const double defaultHight = 15.0;
 
